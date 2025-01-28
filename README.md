@@ -6,7 +6,7 @@ The project itself combines all the following projects to collect card games, do
 - https://github.com/agawrysiuk/card-games-manager-vaadin (this one)
 - https://github.com/agawrysiuk/file-downloader (for downloading cards)
 - https://github.com/agawrysiuk/image-upscaler-wrapper (for upscaling low resolution cards)
-- TBA (for moving them to docx / pdf and printing them)
+- https://github.com/agawrysiuk/game-cards-manager (for moving them to docx / pdf and printing them)
 
 ## Running the application
 
