@@ -1,0 +1,29 @@
+@import url('./main-layout.css');    html {
+      --lumo-shade-5pct: rgba(4, 15, 15, 0.05);
+      --lumo-shade-10pct: rgba(4, 15, 15, 0.1);
+      --lumo-shade-20pct: rgba(4, 15, 15, 0.2);
+      --lumo-shade-30pct: rgba(4, 15, 15, 0.3);
+      --lumo-shade-40pct: rgba(4, 15, 15, 0.4);
+      --lumo-shade-50pct: rgba(4, 15, 15, 0.5);
+      --lumo-shade-60pct: rgba(4, 15, 15, 0.6);
+      --lumo-shade-70pct: rgba(4, 15, 15, 0.7);
+      --lumo-shade-80pct: rgba(4, 15, 15, 0.8);
+      --lumo-shade-90pct: rgba(4, 15, 15, 0.9);
+      --lumo-primary-color-50pct: rgba(91, 192, 190, 0.5);
+      --lumo-primary-color-10pct: rgba(91, 192, 190, 0.1);
+      --lumo-error-color-50pct: rgba(231, 24, 24, 0.5);
+      --lumo-error-color-10pct: rgba(231, 24, 24, 0.1);
+      --lumo-success-color-50pct: rgba(62, 229, 170, 0.5);
+      --lumo-success-color-10pct: rgba(62, 229, 170, 0.1);
+      --lumo-shade: rgb(4, 15, 15);
+      --lumo-primary-color: rgb(91, 192, 190);
+      --lumo-primary-text-color: rgb(91, 192, 190);
+      --lumo-error-color: hsl(0, 81%, 50%);
+      --lumo-error-text-color: hsl(0, 86%, 45%);
+      --lumo-success-color: hsl(159, 76%, 57%);
+      --lumo-success-contrast-color: hsl(159, 29%, 10%);
+      --lumo-success-text-color: hsl(159, 61%, 40%);
+      --lumo-base-color: rgb(252, 255, 252);
+      --lumo-body-text-color: rgb(4, 15, 15);
+
+    }
