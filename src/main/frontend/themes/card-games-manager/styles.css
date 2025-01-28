@@ -27,3 +27,7 @@
       --lumo-body-text-color: rgb(4, 15, 15);
 
     }
+
+.cursor-pointer {
+      cursor: pointer;
+}
